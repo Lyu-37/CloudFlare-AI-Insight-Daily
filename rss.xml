@@ -5,9 +5,18 @@
     <link>https://ai.hubtoday.app/</link>
     <description> 近 7 天的AI日报</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 18 Apr 2026 01:42:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 01:46:21 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.justlikemaki.workers.dev/rss" rel="self" type="application/rss+xml" />
     
+        <item>
+          <title><![CDATA[2026-04-19日刊]]></title>
+          <link>https://ai.hubtoday.app//2026-04/2026-04-19/</link>
+          <guid>https://ai.hubtoday.app//2026-04/2026-04-19/</guid>
+          <pubDate>Sun, 19 Apr 2026 09:46:21 GMT</pubDate>
+          <content:encoded><![CDATA[<p><a href="https://ai.hubtoday.app/">前往官网查看完整版 (ai.hubtoday.app)</a></p><h3>产品与功能更新</h3><ol><li>Bolt 推出 MCP 连接器实现跨项目代码复用。</li><li>Luma AI 发布制作方案降低电影创作成本。</li><li>马斯克 发布 Grok 语音接口且价格非常便宜。</li><li>马斯克 上线 xChat 支持转账等多种功能。</li></ol><h3>前沿研究</h3><ol><li>Kimi 推出新技术提升长文档模型推理速度。</li><li>研究者 开源点云框架并支持自动编写论文。</li></ol><h3>行业展望与社会影响</h3><ol><li>OpenAI 投资芯片公司助力其上市重塑格局。</li><li>苏州 企业集群通过光模块技术支撑全球算力。</li><li>Cursor 洽谈新融资且估值直冲五百亿美元。</li><li>Meta 打造扎克伯格 AI 分身用于管理员工。</li><li>彭博社 称专家对 AI 影响就业的预测有误。</li></ol><h3>开源TOP项目</h3><p>......</p><p><em>[剩余内容已省略]</em></p><hr><p><strong>📢 关于 AI日报 的一次小调整</strong></p><blockquote></blockquote><p>坦白说，想要长久地把<strong>AI日报</strong>做下去，单靠&quot;为爱发电”确实面临现实压力。为了更有热情的<strong>投入精力</strong>， 日报网站版需要来自你们的访问。</p><blockquote></blockquote><p>由于 RSS 无法展示广告带来收入，即日起 RSS 将<strong>试运行&quot;摘要模式”一段时间</strong>。</p><blockquote></blockquote><p>感谢您的理解与陪伴，让我们一起走得更远！</p><blockquote></blockquote><p>👇 <strong>点击下方链接，阅读今日完整资讯</strong></p><h3><a href="https://ai.hubtoday.app/">前往官网查看完整版 (ai.hubtoday.app)</a></h3><blockquote></blockquote><p><strong>或者微信关注公众号: 何夕2077</strong></p><blockquote></blockquote><p><small>如有建议，欢迎随时邮件沟通：<a href="mailto:justlikemaki@foxmail.com">justlikemaki@foxmail.com</a></small><br/><small>或加我进群提供建议:</small><br/><img src="https://source.hubtoday.app/logo/wechat-qun.jpg" alt="加我进群-何夕2077AI日报问题反馈"></p>]]></content:encoded>
+          <description><![CDATA[前往官网查看完整版 (ai.hubtoday.app) 产品与功能更新 Bolt 推出 MCP 连接器实现跨项目代码复用。 Luma AI 发布制作方案降低电影创作成本。 马斯克 发布 Grok 语音接口且价格非常便宜。 马斯克 上线 xChat 支持转账等多种功能。 前沿研究 Kimi 推出新技术提升长文档模型推理速度。 研究者 开源点云框架并支持自动编写论文。 行业展望与社会影响 OpenAI]]></description>
+        </item>
+      
         <item>
           <title><![CDATA[2026-04-18日刊]]></title>
           <link>https://ai.hubtoday.app//2026-04/2026-04-18/</link>
@@ -60,15 +69,6 @@
           <pubDate>Mon, 13 Apr 2026 10:41:24 GMT</pubDate>
           <content:encoded><![CDATA[<p><a href="https://ai.hubtoday.app/">前往官网查看完整版 (ai.hubtoday.app)</a></p><h3>产品与功能更新</h3><ol><li>MiniMax M2.7 模型正式开源并提供下载。</li><li>字节扣子 2.5 支持自然语言编程和云办公。</li><li>MiniMax 音乐模型支持歌曲翻录和旋律提取。</li></ol><h3>前沿研究</h3><ol><li>灵初智能具身模型夺得全球相关榜单冠军。</li><li>伯克利研究揭露 AI 模型在测试中通过手段作弊。</li><li>研究发现大模型具有异于人类的逆向学习逻辑。</li></ol><h3>行业展望与社会影响</h3><ol><li>硅谷高管警告 AI 普及导致企业招聘大幅减少。</li><li>硅谷大厂工作强度过大引发核心人才离职潮。</li><li>东非共同体启动区域 AI 基金以保护数据主权。</li><li>专家警告 AI 已具备自主构建系统和欺骗能力。</li></ol><h3>开源 TOP 项目</h3><ol><li>谷歌开源模型可实现零样本时间序列预测。</li></ol><p>......</p><p><em>[剩余内容已省略]</em></p><hr><p><strong>📢 关于 AI日报 的一次小调整</strong></p><blockquote></blockquote><p>坦白说，想要长久地把<strong>AI日报</strong>做下去，单靠&quot;为爱发电”确实面临现实压力。为了更有热情的<strong>投入精力</strong>， 日报网站版需要来自你们的访问。</p><blockquote></blockquote><p>由于 RSS 无法展示广告带来收入，即日起 RSS 将<strong>试运行&quot;摘要模式”一段时间</strong>。</p><blockquote></blockquote><p>感谢您的理解与陪伴，让我们一起走得更远！</p><blockquote></blockquote><p>👇 <strong>点击下方链接，阅读今日完整资讯</strong></p><h3><a href="https://ai.hubtoday.app/">前往官网查看完整版 (ai.hubtoday.app)</a></h3><blockquote></blockquote><p><strong>或者微信关注公众号: 何夕2077</strong></p><blockquote></blockquote><p><small>如有建议，欢迎随时邮件沟通：<a href="mailto:justlikemaki@foxmail.com">justlikemaki@foxmail.com</a></small><br/><small>或加我进群提供建议:</small><br/><img src="https://source.hubtoday.app/logo/wechat-qun.jpg" alt="加我进群-何夕2077AI日报问题反馈"></p>]]></content:encoded>
           <description><![CDATA[前往官网查看完整版 (ai.hubtoday.app) 产品与功能更新 MiniMax M2.7 模型正式开源并提供下载。 字节扣子 2.5 支持自然语言编程和云办公。 MiniMax 音乐模型支持歌曲翻录和旋律提取。 前沿研究 灵初智能具身模型夺得全球相关榜单冠军。 伯克利研究揭露 AI 模型在测试中通过手段作弊。 研究发现大模型具有异于人类的逆向学习逻辑。 行业展望与社会影响 硅谷高管警告 A]]></description>
-        </item>
-      
-        <item>
-          <title><![CDATA[2026-04-12日刊]]></title>
-          <link>https://ai.hubtoday.app//2026-04/2026-04-12/</link>
-          <guid>https://ai.hubtoday.app//2026-04/2026-04-12/</guid>
-          <pubDate>Sun, 12 Apr 2026 12:10:30 GMT</pubDate>
-          <content:encoded><![CDATA[<p><a href="https://ai.hubtoday.app/">前往官网查看完整版 (ai.hubtoday.app)</a></p><h3>产品与功能更新</h3><ol><li>Shopify 开放后台权限支持 AI 优化店铺。</li><li>FLUX.2 发布具备顶级物理模拟效果的新引擎。</li><li>SuperCmd 开源工具集成剪贴板与语音输入功能。</li><li>Cloudflare 远程浏览器支持 MCP 提升调试效率。</li></ol><h3>前研研究</h3><ol><li>Anthropic 发布 Claude 最强模型技术报告。</li></ol><h3>行业展望与社会影响</h3><ol><li>SaaS 行业市值大跌且智能体开始取代软件。</li><li>Anthropic 年营收超三百亿且算力负载激增。</li><li>神父联手 Anthropic 制定 AI 道德准则。</li><li>特斯拉物理 AI 模型领先行业三年以上。</li><li>日本提供巨额补贴支持本土量产 2 纳米芯片。</li><li>研究报告显示 AI 提升效率但导致技能退化。</li></ol><p>......</p><p><em>[剩余内容已省略]</em></p><hr><p><strong>📢 关于 AI日报 的一次小调整</strong></p><blockquote></blockquote><p>坦白说，想要长久地把<strong>AI日报</strong>做下去，单靠&quot;为爱发电”确实面临现实压力。为了更有热情的<strong>投入精力</strong>， 日报网站版需要来自你们的访问。</p><blockquote></blockquote><p>由于 RSS 无法展示广告带来收入，即日起 RSS 将<strong>试运行&quot;摘要模式”一段时间</strong>。</p><blockquote></blockquote><p>感谢您的理解与陪伴，让我们一起走得更远！</p><blockquote></blockquote><p>👇 <strong>点击下方链接，阅读今日完整资讯</strong></p><h3><a href="https://ai.hubtoday.app/">前往官网查看完整版 (ai.hubtoday.app)</a></h3><blockquote></blockquote><p><strong>或者微信关注公众号: 何夕2077</strong></p><blockquote></blockquote><p><small>如有建议，欢迎随时邮件沟通：<a href="mailto:justlikemaki@foxmail.com">justlikemaki@foxmail.com</a></small><br/><small>或加我进群提供建议:</small><br/><img src="https://source.hubtoday.app/logo/wechat-qun.jpg" alt="加我进群-何夕2077AI日报问题反馈"></p>]]></content:encoded>
-          <description><![CDATA[前往官网查看完整版 (ai.hubtoday.app) 产品与功能更新 Shopify 开放后台权限支持 AI 优化店铺。 FLUX.2 发布具备顶级物理模拟效果的新引擎。 SuperCmd 开源工具集成剪贴板与语音输入功能。 Cloudflare 远程浏览器支持 MCP 提升调试效率。 前研研究 Anthropic 发布 Claude 最强模型技术报告。 行业展望与社会影响 SaaS 行业市值大]]></description>
         </item>
       
   </channel>
