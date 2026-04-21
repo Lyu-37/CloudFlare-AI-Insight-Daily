@@ -5,9 +5,18 @@
     <link>https://ai.hubtoday.app/</link>
     <description> 近 7 天的AI日报</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 20 Apr 2026 02:08:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 02:34:12 GMT</lastBuildDate>
     <atom:link href="https://ai-daily.justlikemaki.workers.dev/rss" rel="self" type="application/rss+xml" />
     
+        <item>
+          <title><![CDATA[2026-04-21日刊]]></title>
+          <link>https://ai.hubtoday.app//2026-04/2026-04-21/</link>
+          <guid>https://ai.hubtoday.app//2026-04/2026-04-21/</guid>
+          <pubDate>Tue, 21 Apr 2026 10:34:12 GMT</pubDate>
+          <content:encoded><![CDATA[<p><a href="https://ai.hubtoday.app/">前往官网查看完整版 (ai.hubtoday.app)</a></p><h3>产品与功能更新</h3><ol><li>OpenAI 发布 Codex 屏幕记忆功能。</li><li>Google 开放 AI Studio 高级模型权限。</li></ol><h3>前沿研究</h3><ol><li>人大 发布长程记忆科研系统。</li><li>北大团队 突破 3D 空间推理瓶颈。</li><li>VeriMoA 架构 提升芯片设计效率。</li><li>科学家 发现 FP16 推理存在风险。</li></ol><h3>行业展望与社会影响</h3><ol><li>库克 转任主席且硬件主管接棒。</li><li>OpenAI 开始售卖对话相关广告。</li><li>人形机器人天工 跑赢北京半马。</li><li>苏度科技 发布具身智能大模型。</li><li>Anthropic 专家 向白宫提供防御技术。</li><li>特斯拉 被指隐瞒自动驾驶事故。</li><li>马斯克 宣布 Grok 5 冲击通用智能。</li></ol><h3>开源TOP项目</h3><p>......</p><p><em>[剩余内容已省略]</em></p><hr><p><strong>📢 关于 AI日报 的一次小调整</strong></p><blockquote></blockquote><p>坦白说，想要长久地把<strong>AI日报</strong>做下去，单靠&quot;为爱发电”确实面临现实压力。为了更有热情的<strong>投入精力</strong>， 日报网站版需要来自你们的访问。</p><blockquote></blockquote><p>由于 RSS 无法展示广告带来收入，即日起 RSS 将<strong>试运行&quot;摘要模式”一段时间</strong>。</p><blockquote></blockquote><p>感谢您的理解与陪伴，让我们一起走得更远！</p><blockquote></blockquote><p>👇 <strong>点击下方链接，阅读今日完整资讯</strong></p><h3><a href="https://ai.hubtoday.app/">前往官网查看完整版 (ai.hubtoday.app)</a></h3><blockquote></blockquote><p><strong>或者微信关注公众号: 何夕2077</strong></p><blockquote></blockquote><p><small>如有建议，欢迎随时邮件沟通：<a href="mailto:justlikemaki@foxmail.com">justlikemaki@foxmail.com</a></small><br/><small>或加我进群提供建议:</small><br/><img src="https://source.hubtoday.app/logo/wechat-qun.jpg" alt="加我进群-何夕2077AI日报问题反馈"></p>]]></content:encoded>
+          <description><![CDATA[前往官网查看完整版 (ai.hubtoday.app) 产品与功能更新 OpenAI 发布 Codex 屏幕记忆功能。 Google 开放 AI Studio 高级模型权限。 前沿研究 人大 发布长程记忆科研系统。 北大团队 突破 3D 空间推理瓶颈。 VeriMoA 架构 提升芯片设计效率。 科学家 发现 FP16 推理存在风险。 行业展望与社会影响 库克 转任主席且硬件主管接棒。 OpenAI]]></description>
+        </item>
+      
         <item>
           <title><![CDATA[2026-04-20日刊]]></title>
           <link>https://ai.hubtoday.app//2026-04/2026-04-20/</link>
@@ -60,15 +69,6 @@
           <pubDate>Wed, 15 Apr 2026 09:47:39 GMT</pubDate>
           <content:encoded><![CDATA[<p><a href="https://ai.hubtoday.app/">前往官网查看完整版 (ai.hubtoday.app)</a></p><h3>产品与功能更新</h3><ol><li>Claude 桌面版重构并支持多任务编程。</li><li>MiniMax 桌面版上线可以接管办公软件。</li></ol><h3>前沿研究</h3><ol><li>Qwen3 实现角色切换使推理性能翻倍。</li><li>ExecTune 优化策略让模型成本降低两成。</li><li>AI 模型因过度对齐产生安全歧视风险。</li><li>自动化基准通过流水线生成复杂交互案例。</li><li>手势生成技术实现语音驱动实时全身动作。</li><li>裸机架构通过直接访问硬件提升算力效率。</li></ol><h3>行业展望与社会影响</h3><ol><li>教育部发文将 AI 设为中小学必修课。</li><li>国产 Vidu 视频模型凭借声画一致性夺魁。</li><li>具身模型推理提速百倍并在评测中夺冠。</li><li>药企联手 OpenAI 用 AI 加速研发新药。</li><li>投资者担心 OpenAI 的高估值和路线调整。</li></ol><p>......</p><p><em>[剩余内容已省略]</em></p><hr><p><strong>📢 关于 AI日报 的一次小调整</strong></p><blockquote></blockquote><p>坦白说，想要长久地把<strong>AI日报</strong>做下去，单靠&quot;为爱发电”确实面临现实压力。为了更有热情的<strong>投入精力</strong>， 日报网站版需要来自你们的访问。</p><blockquote></blockquote><p>由于 RSS 无法展示广告带来收入，即日起 RSS 将<strong>试运行&quot;摘要模式”一段时间</strong>。</p><blockquote></blockquote><p>感谢您的理解与陪伴，让我们一起走得更远！</p><blockquote></blockquote><p>👇 <strong>点击下方链接，阅读今日完整资讯</strong></p><h3><a href="https://ai.hubtoday.app/">前往官网查看完整版 (ai.hubtoday.app)</a></h3><blockquote></blockquote><p><strong>或者微信关注公众号: 何夕2077</strong></p><blockquote></blockquote><p><small>如有建议，欢迎随时邮件沟通：<a href="mailto:justlikemaki@foxmail.com">justlikemaki@foxmail.com</a></small><br/><small>或加我进群提供建议:</small><br/><img src="https://source.hubtoday.app/logo/wechat-qun.jpg" alt="加我进群-何夕2077AI日报问题反馈"></p>]]></content:encoded>
           <description><![CDATA[前往官网查看完整版 (ai.hubtoday.app) 产品与功能更新 Claude 桌面版重构并支持多任务编程。 MiniMax 桌面版上线可以接管办公软件。 前沿研究 Qwen3 实现角色切换使推理性能翻倍。 ExecTune 优化策略让模型成本降低两成。 AI 模型因过度对齐产生安全歧视风险。 自动化基准通过流水线生成复杂交互案例。 手势生成技术实现语音驱动实时全身动作。 裸机架构通过直接访]]></description>
-        </item>
-      
-        <item>
-          <title><![CDATA[2026-04-14日刊]]></title>
-          <link>https://ai.hubtoday.app//2026-04/2026-04-14/</link>
-          <guid>https://ai.hubtoday.app//2026-04/2026-04-14/</guid>
-          <pubDate>Tue, 14 Apr 2026 10:38:22 GMT</pubDate>
-          <content:encoded><![CDATA[<p><a href="https://ai.hubtoday.app/">前往官网查看完整版 (ai.hubtoday.app)</a></p><h3>产品与功能更新</h3><ol><li>小鹏汽车发布自研芯片与线控系统。</li><li>马斯克开启智能体公测以控制电脑。</li><li>阿里将桌面智能体更名并开源。</li><li>Claude 获得浏览器控制权并能写代码。</li><li>Cloudflare 推出工具整合多种产品。</li><li>Kimi 发布代码版并提升编程能力。</li></ol><h3>前沿研究</h3><ol><li>Tora3 框架提升音视频生成一致性。</li><li>SAT 模型削减 Token 并降低算力。</li><li>Tiled Prompts 解决画面修复伪影。</li></ol><h3>行业展望与社会影响</h3><ol><li>AI 创业者面临产品瓶颈与低利润。</li><li>美国工人部分工作正被 AI 替代。</li><li>河南启动联盟支持个人全链路创业。</li><li>陶哲轩提出人机合作的智能新观点。</li><li>网络犯罪走向专业化并泄露数据。</li></ol><h3>开源TOP项目</h3><p>......</p><p><em>[剩余内容已省略]</em></p><hr><p><strong>📢 关于 AI日报 的一次小调整</strong></p><blockquote></blockquote><p>坦白说，想要长久地把<strong>AI日报</strong>做下去，单靠&quot;为爱发电”确实面临现实压力。为了更有热情的<strong>投入精力</strong>， 日报网站版需要来自你们的访问。</p><blockquote></blockquote><p>由于 RSS 无法展示广告带来收入，即日起 RSS 将<strong>试运行&quot;摘要模式”一段时间</strong>。</p><blockquote></blockquote><p>感谢您的理解与陪伴，让我们一起走得更远！</p><blockquote></blockquote><p>👇 <strong>点击下方链接，阅读今日完整资讯</strong></p><h3><a href="https://ai.hubtoday.app/">前往官网查看完整版 (ai.hubtoday.app)</a></h3><blockquote></blockquote><p><strong>或者微信关注公众号: 何夕2077</strong></p><blockquote></blockquote><p><small>如有建议，欢迎随时邮件沟通：<a href="mailto:justlikemaki@foxmail.com">justlikemaki@foxmail.com</a></small><br/><small>或加我进群提供建议:</small><br/><img src="https://source.hubtoday.app/logo/wechat-qun.jpg" alt="加我进群-何夕2077AI日报问题反馈"></p>]]></content:encoded>
-          <description><![CDATA[前往官网查看完整版 (ai.hubtoday.app) 产品与功能更新 小鹏汽车发布自研芯片与线控系统。 马斯克开启智能体公测以控制电脑。 阿里将桌面智能体更名并开源。 Claude 获得浏览器控制权并能写代码。 Cloudflare 推出工具整合多种产品。 Kimi 发布代码版并提升编程能力。 前沿研究 Tora3 框架提升音视频生成一致性。 SAT 模型削减 Token 并降低算力。 Tile]]></description>
         </item>
       
   </channel>
