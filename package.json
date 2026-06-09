@@ -1,0 +1,27 @@
+{
+  "name": "cloudflare-ai-insight-daily",
+  "version": "1.0.0",
+  "description": "> 您的每日 AI 信息整合,分析,日报,播客内容生成平台。",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lyu-37/CloudFlare-AI-Insight-Daily.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Lyu-37/CloudFlare-AI-Insight-Daily/issues"
+  },
+  "homepage": "https://github.com/Lyu-37/CloudFlare-AI-Insight-Daily#readme",
+  "devDependencies": {
+    "wrangler": "^4.84.1"
+  }
+}
